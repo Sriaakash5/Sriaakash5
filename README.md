@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sriaakash5
 - 👀 I’m interested in programming,machine learning
-- 🌱 I’m currently learning B.Tech ECE
+- 🌱 I’m currently learning programming in Java and machine learning
 - 💞️ I’m looking to collaborate on opensource project
 - 📫 How to reach me ...
 
